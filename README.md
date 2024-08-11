@@ -9,3 +9,4 @@ I’m a **Software Engineering** student currently exploring technologies like *
 - 💻 C
 - 🐍 Python
 - 🦏 JavaScript
+- 🔤 TypeScript
