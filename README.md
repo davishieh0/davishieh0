@@ -1,4 +1,4 @@
-# 👋 Nǐ hǎo! / Hello!
+# 👋 Nǐ hǎo! / Hello
 
 I’m a **Software Engineering** student currently exploring technologies like **TypeScript, Angular,** and various tools and frameworks with a focus on Front-end development to enhance my skills.
 
