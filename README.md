@@ -1,10 +1,7 @@
-# 👋 Nǐ hǎo! / Hello
+# Olá
 
-I’m a **Software Engineering** student currently exploring technologies like **TypeScript, Angular,** and various tools and frameworks with a focus on Front-end development to enhance my skills.
 
-🔧 On the front-end, I’m diving into Angular development and aiming to create elegant and functional interfaces.
-
-🏐 When I’m not coding, I love playing volleyball, watching movies, and solving Rubik’s cubes!
+Sou um estudante de **Engenharia de Software** que atualmente explora tecnologias como **Python,TypeScript, Angular** e várias ferramentas e frameworks com foco em desenvolvimento front-end e Back-end para aprimorar minhas habilidades.
 
 - 💻 C
 - 🐍 Python
